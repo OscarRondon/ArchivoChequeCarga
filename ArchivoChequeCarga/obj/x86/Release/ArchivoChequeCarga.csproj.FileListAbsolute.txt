@@ -1,0 +1,4 @@
+C:\Users\orondon\Documents\orondon\ArchivoChequeCarga\ArchivoChequeCarga\bin\x86\Release\ArchivoChequeCarga.exe
+C:\Users\orondon\Documents\orondon\ArchivoChequeCarga\ArchivoChequeCarga\bin\x86\Release\ArchivoChequeCarga.pdb
+C:\Users\orondon\Documents\orondon\ArchivoChequeCarga\ArchivoChequeCarga\obj\x86\Release\ArchivoChequeCarga.exe
+C:\Users\orondon\Documents\orondon\ArchivoChequeCarga\ArchivoChequeCarga\obj\x86\Release\ArchivoChequeCarga.pdb
